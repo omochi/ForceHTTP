@@ -19,3 +19,6 @@ Handmade HTTP library build on the *4th* network library, Network.framework.
 - pipelining
 - mime
 
+# Example
+
+https://github.com/omochi/ForceHTTPExample
