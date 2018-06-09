@@ -15,7 +15,8 @@ Handmade HTTP library build on the *4th* network library, Network.framework.
 
 ## not support yet
 
-- on disk download
+- on disk download / upload
+- chunked transfer
 - pipelining
 - mime
 
